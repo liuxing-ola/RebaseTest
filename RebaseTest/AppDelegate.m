@@ -19,6 +19,9 @@
     NSLog(@"测试5");
     NSLog(@"测试6");
     NSLog(@"测试7");
+    NSLog(@"测试8"); 
+    NSLog(@"测试9");
+    NSLog(@"测试10");
     // Override point for customization after application launch.
     return YES;
 }
